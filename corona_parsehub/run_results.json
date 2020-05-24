@@ -1,0 +1,1268 @@
+{
+ "total": [
+  {
+   "name": "Coronavirus Cases:",
+   "value": "5,237,508"
+  },
+  {
+   "name": "Deaths:",
+   "value": "335,805"
+  },
+  {
+   "name": "Recovered:",
+   "value": "2,113,108"
+  },
+  {
+   "name": "Los Angeles, CA:"
+  },
+  {
+   "name": "The Formula For Easy Quotes"
+  }
+ ],
+ "country": [
+  {
+   "name": "USA",
+   "total_cases": "1,625,039",
+   "total_deaths": "96,526",
+   "new_deaths": "+172"
+  },
+  {
+   "name": "Russia",
+   "total_cases": "326,448",
+   "total_deaths": "3,249",
+   "new_deaths": "+150"
+  },
+  {
+   "name": "Brazil",
+   "total_cases": "312,074",
+   "total_deaths": "20,112",
+   "new_deaths": "+30"
+  },
+  {
+   "name": "Spain",
+   "total_cases": "280,117",
+   "total_deaths": "27,940",
+   "new_deaths": ""
+  },
+  {
+   "name": "UK",
+   "total_cases": "254,195",
+   "total_deaths": "36,393",
+   "new_deaths": "+351"
+  },
+  {
+   "name": "Italy",
+   "total_cases": "228,006",
+   "total_deaths": "32,486",
+   "new_deaths": ""
+  },
+  {
+   "name": "France",
+   "total_cases": "181,826",
+   "total_deaths": "28,215",
+   "new_deaths": ""
+  },
+  {
+   "name": "Germany",
+   "total_cases": "179,347",
+   "total_deaths": "8,320",
+   "new_deaths": "+11"
+  },
+  {
+   "name": "Turkey",
+   "total_cases": "153,548",
+   "total_deaths": "4,249",
+   "new_deaths": ""
+  },
+  {
+   "name": "Iran",
+   "total_cases": "131,652",
+   "total_deaths": "7,300",
+   "new_deaths": "+51"
+  },
+  {
+   "name": "India",
+   "total_cases": "123,711",
+   "total_deaths": "3,676",
+   "new_deaths": "+92"
+  },
+  {
+   "name": "Peru",
+   "total_cases": "108,769",
+   "total_deaths": "3,148",
+   "new_deaths": ""
+  },
+  {
+   "name": "China",
+   "total_cases": "82,971",
+   "total_deaths": "4,634",
+   "new_deaths": ""
+  },
+  {
+   "name": "Canada",
+   "total_cases": "81,324",
+   "total_deaths": "6,152",
+   "new_deaths": ""
+  },
+  {
+   "name": "Saudi Arabia",
+   "total_cases": "67,719",
+   "total_deaths": "364",
+   "new_deaths": "+13"
+  },
+  {
+   "name": "Mexico",
+   "total_cases": "59,567",
+   "total_deaths": "6,510",
+   "new_deaths": "+420"
+  },
+  {
+   "name": "Chile",
+   "total_cases": "57,581",
+   "total_deaths": "589",
+   "new_deaths": ""
+  },
+  {
+   "name": "Belgium",
+   "total_cases": "56,511",
+   "total_deaths": "9,212",
+   "new_deaths": "+26"
+  },
+  {
+   "name": "Pakistan",
+   "total_cases": "50,694",
+   "total_deaths": "1,067",
+   "new_deaths": "+50"
+  },
+  {
+   "name": "Netherlands",
+   "total_cases": "44,888",
+   "total_deaths": "5,788",
+   "new_deaths": "+13"
+  },
+  {
+   "name": "Qatar",
+   "total_cases": "40,481",
+   "total_deaths": "19",
+   "new_deaths": "+2"
+  },
+  {
+   "name": "Ecuador",
+   "total_cases": "35,306",
+   "total_deaths": "2,939",
+   "new_deaths": ""
+  },
+  {
+   "name": "Belarus",
+   "total_cases": "34,303",
+   "total_deaths": "190",
+   "new_deaths": "+5"
+  },
+  {
+   "name": "Sweden",
+   "total_cases": "32,809",
+   "total_deaths": "3,925",
+   "new_deaths": "+54"
+  },
+  {
+   "name": "Switzerland",
+   "total_cases": "30,707",
+   "total_deaths": "1,903",
+   "new_deaths": "+5"
+  },
+  {
+   "name": "Singapore",
+   "total_cases": "30,426",
+   "total_deaths": "23",
+   "new_deaths": ""
+  },
+  {
+   "name": "Bangladesh",
+   "total_cases": "30,205",
+   "total_deaths": "432",
+   "new_deaths": "+24"
+  },
+  {
+   "name": "Portugal",
+   "total_cases": "30,200",
+   "total_deaths": "1,289",
+   "new_deaths": "+12"
+  },
+  {
+   "name": "UAE",
+   "total_cases": "26,898",
+   "total_deaths": "237",
+   "new_deaths": ""
+  },
+  {
+   "name": "Ireland",
+   "total_cases": "24,391",
+   "total_deaths": "1,583",
+   "new_deaths": ""
+  },
+  {
+   "name": "Indonesia",
+   "total_cases": "20,796",
+   "total_deaths": "1,326",
+   "new_deaths": "+48"
+  },
+  {
+   "name": "Poland",
+   "total_cases": "20,379",
+   "total_deaths": "973",
+   "new_deaths": "+1"
+  },
+  {
+   "name": "Ukraine",
+   "total_cases": "20,148",
+   "total_deaths": "588",
+   "new_deaths": "+9"
+  },
+  {
+   "name": "Kuwait",
+   "total_cases": "19,564",
+   "total_deaths": "138",
+   "new_deaths": "+9"
+  },
+  {
+   "name": "South Africa",
+   "total_cases": "19,137",
+   "total_deaths": "369",
+   "new_deaths": ""
+  },
+  {
+   "name": "Colombia",
+   "total_cases": "18,330",
+   "total_deaths": "652",
+   "new_deaths": ""
+  },
+  {
+   "name": "Romania",
+   "total_cases": "17,712",
+   "total_deaths": "1,159",
+   "new_deaths": "+3"
+  },
+  {
+   "name": "Israel",
+   "total_cases": "16,690",
+   "total_deaths": "279",
+   "new_deaths": ""
+  },
+  {
+   "name": "Austria",
+   "total_cases": "16,436",
+   "total_deaths": "635",
+   "new_deaths": "+2"
+  },
+  {
+   "name": "Japan",
+   "total_cases": "16,424",
+   "total_deaths": "777",
+   "new_deaths": ""
+  },
+  {
+   "name": "Egypt",
+   "total_cases": "15,003",
+   "total_deaths": "696",
+   "new_deaths": ""
+  },
+  {
+   "name": "Dominican Republic",
+   "total_cases": "13,657",
+   "total_deaths": "448",
+   "new_deaths": ""
+  },
+  {
+   "name": "Philippines",
+   "total_cases": "13,597",
+   "total_deaths": "857",
+   "new_deaths": "+11"
+  },
+  {
+   "name": "Denmark",
+   "total_cases": "11,230",
+   "total_deaths": "561",
+   "new_deaths": ""
+  },
+  {
+   "name": "S. Korea",
+   "total_cases": "11,142",
+   "total_deaths": "264",
+   "new_deaths": ""
+  },
+  {
+   "name": "Serbia",
+   "total_cases": "11,024",
+   "total_deaths": "237",
+   "new_deaths": ""
+  },
+  {
+   "name": "Panama",
+   "total_cases": "10,116",
+   "total_deaths": "291",
+   "new_deaths": ""
+  },
+  {
+   "name": "Argentina",
+   "total_cases": "9,931",
+   "total_deaths": "416",
+   "new_deaths": ""
+  },
+  {
+   "name": "Afghanistan",
+   "total_cases": "9,216",
+   "total_deaths": "205",
+   "new_deaths": "+12"
+  },
+  {
+   "name": "Czechia",
+   "total_cases": "8,757",
+   "total_deaths": "306",
+   "new_deaths": ""
+  },
+  {
+   "name": "Bahrain",
+   "total_cases": "8,369",
+   "total_deaths": "12",
+   "new_deaths": ""
+  },
+  {
+   "name": "Norway",
+   "total_cases": "8,322",
+   "total_deaths": "235",
+   "new_deaths": ""
+  },
+  {
+   "name": "Algeria",
+   "total_cases": "7,728",
+   "total_deaths": "575",
+   "new_deaths": ""
+  },
+  {
+   "name": "Kazakhstan",
+   "total_cases": "7,597",
+   "total_deaths": "35",
+   "new_deaths": ""
+  },
+  {
+   "name": "Morocco",
+   "total_cases": "7,300",
+   "total_deaths": "197",
+   "new_deaths": "+1"
+  },
+  {
+   "name": "Malaysia",
+   "total_cases": "7,137",
+   "total_deaths": "115",
+   "new_deaths": "+1"
+  },
+  {
+   "name": "Australia",
+   "total_cases": "7,095",
+   "total_deaths": "101",
+   "new_deaths": "+1"
+  },
+  {
+   "name": "Nigeria",
+   "total_cases": "7,016",
+   "total_deaths": "211",
+   "new_deaths": ""
+  },
+  {
+   "name": "Oman",
+   "total_cases": "6,794",
+   "total_deaths": "32",
+   "new_deaths": "+1"
+  },
+  {
+   "name": "Moldova",
+   "total_cases": "6,704",
+   "total_deaths": "233",
+   "new_deaths": ""
+  },
+  {
+   "name": "Finland",
+   "total_cases": "6,537",
+   "total_deaths": "306",
+   "new_deaths": ""
+  },
+  {
+   "name": "Ghana",
+   "total_cases": "6,486",
+   "total_deaths": "31",
+   "new_deaths": ""
+  },
+  {
+   "name": "Armenia",
+   "total_cases": "5,928",
+   "total_deaths": "74",
+   "new_deaths": "+4"
+  },
+  {
+   "name": "Bolivia",
+   "total_cases": "5,187",
+   "total_deaths": "215",
+   "new_deaths": "+16"
+  },
+  {
+   "name": "Cameroon",
+   "total_cases": "4,288",
+   "total_deaths": "156",
+   "new_deaths": ""
+  },
+  {
+   "name": "Luxembourg",
+   "total_cases": "3,980",
+   "total_deaths": "109",
+   "new_deaths": ""
+  },
+  {
+   "name": "Iraq",
+   "total_cases": "3,877",
+   "total_deaths": "140",
+   "new_deaths": ""
+  },
+  {
+   "name": "Azerbaijan",
+   "total_cases": "3,855",
+   "total_deaths": "46",
+   "new_deaths": "+2"
+  },
+  {
+   "name": "Hungary",
+   "total_cases": "3,678",
+   "total_deaths": "476",
+   "new_deaths": "+3"
+  },
+  {
+   "name": "Honduras",
+   "total_cases": "3,204",
+   "total_deaths": "156",
+   "new_deaths": "+5"
+  },
+  {
+   "name": "Sudan",
+   "total_cases": "3,138",
+   "total_deaths": "121",
+   "new_deaths": ""
+  },
+  {
+   "name": "Guinea",
+   "total_cases": "3,067",
+   "total_deaths": "18",
+   "new_deaths": ""
+  },
+  {
+   "name": "Thailand",
+   "total_cases": "3,037",
+   "total_deaths": "56",
+   "new_deaths": ""
+  },
+  {
+   "name": "Uzbekistan",
+   "total_cases": "3,006",
+   "total_deaths": "13",
+   "new_deaths": ""
+  },
+  {
+   "name": "Senegal",
+   "total_cases": "2,909",
+   "total_deaths": "33",
+   "new_deaths": ""
+  },
+  {
+   "name": "Greece",
+   "total_cases": "2,853",
+   "total_deaths": "168",
+   "new_deaths": ""
+  },
+  {
+   "name": "Guatemala",
+   "total_cases": "2,512",
+   "total_deaths": "48",
+   "new_deaths": "+3"
+  },
+  {
+   "name": "Bosnia and Herzegovina",
+   "total_cases": "2,372",
+   "total_deaths": "141",
+   "new_deaths": "+1"
+  },
+  {
+   "name": "Bulgaria",
+   "total_cases": "2,372",
+   "total_deaths": "125",
+   "new_deaths": "+5"
+  },
+  {
+   "name": "Tajikistan",
+   "total_cases": "2,350",
+   "total_deaths": "44",
+   "new_deaths": ""
+  },
+  {
+   "name": "Ivory Coast",
+   "total_cases": "2,301",
+   "total_deaths": "29",
+   "new_deaths": ""
+  },
+  {
+   "name": "Croatia",
+   "total_cases": "2,243",
+   "total_deaths": "99",
+   "new_deaths": "+2"
+  },
+  {
+   "name": "Djibouti",
+   "total_cases": "2,047",
+   "total_deaths": "10",
+   "new_deaths": ""
+  },
+  {
+   "name": "DRC",
+   "total_cases": "1,945",
+   "total_deaths": "63",
+   "new_deaths": "+2"
+  },
+  {
+   "name": "North Macedonia",
+   "total_cases": "1,921",
+   "total_deaths": "112",
+   "new_deaths": "+1"
+  },
+  {
+   "name": "Cuba",
+   "total_cases": "1,916",
+   "total_deaths": "81",
+   "new_deaths": "+1"
+  },
+  {
+   "name": "Estonia",
+   "total_cases": "1,807",
+   "total_deaths": "64",
+   "new_deaths": ""
+  },
+  {
+   "name": "Iceland",
+   "total_cases": "1,803",
+   "total_deaths": "10",
+   "new_deaths": ""
+  },
+  {
+   "name": "El Salvador",
+   "total_cases": "1,725",
+   "total_deaths": "33",
+   "new_deaths": ""
+  },
+  {
+   "name": "Lithuania",
+   "total_cases": "1,604",
+   "total_deaths": "61",
+   "new_deaths": ""
+  },
+  {
+   "name": "Somalia",
+   "total_cases": "1,594",
+   "total_deaths": "61",
+   "new_deaths": ""
+  },
+  {
+   "name": "Gabon",
+   "total_cases": "1,567",
+   "total_deaths": "12",
+   "new_deaths": ""
+  },
+  {
+   "name": "New Zealand",
+   "total_cases": "1,504",
+   "total_deaths": "21",
+   "new_deaths": ""
+  },
+  {
+   "name": "Slovakia",
+   "total_cases": "1,503",
+   "total_deaths": "28",
+   "new_deaths": ""
+  },
+  {
+   "name": "Mayotte",
+   "total_cases": "1,475",
+   "total_deaths": "19",
+   "new_deaths": ""
+  },
+  {
+   "name": "Slovenia",
+   "total_cases": "1,468",
+   "total_deaths": "106",
+   "new_deaths": ""
+  },
+  {
+   "name": "Kyrgyzstan",
+   "total_cases": "1,350",
+   "total_deaths": "14",
+   "new_deaths": ""
+  },
+  {
+   "name": "Maldives",
+   "total_cases": "1,216",
+   "total_deaths": "4",
+   "new_deaths": ""
+  },
+  {
+   "name": "Kenya",
+   "total_cases": "1,161",
+   "total_deaths": "50",
+   "new_deaths": ""
+  },
+  {
+   "name": "Guinea-Bissau",
+   "total_cases": "1,109",
+   "total_deaths": "6",
+   "new_deaths": ""
+  },
+  {
+   "name": "Lebanon",
+   "total_cases": "1,086",
+   "total_deaths": "26",
+   "new_deaths": ""
+  },
+  {
+   "name": "Hong Kong",
+   "total_cases": "1,066",
+   "total_deaths": "4",
+   "new_deaths": ""
+  },
+  {
+   "name": "Sri Lanka",
+   "total_cases": "1,060",
+   "total_deaths": "9",
+   "new_deaths": ""
+  },
+  {
+   "name": "Tunisia",
+   "total_cases": "1,046",
+   "total_deaths": "47",
+   "new_deaths": ""
+  },
+  {
+   "name": "Latvia",
+   "total_cases": "1,030",
+   "total_deaths": "22",
+   "new_deaths": ""
+  },
+  {
+   "name": "Albania",
+   "total_cases": "981",
+   "total_deaths": "31",
+   "new_deaths": ""
+  },
+  {
+   "name": "Mali",
+   "total_cases": "947",
+   "total_deaths": "60",
+   "new_deaths": ""
+  },
+  {
+   "name": "Niger",
+   "total_cases": "924",
+   "total_deaths": "60",
+   "new_deaths": ""
+  },
+  {
+   "name": "Cyprus",
+   "total_cases": "923",
+   "total_deaths": "17",
+   "new_deaths": ""
+  },
+  {
+   "name": "Costa Rica",
+   "total_cases": "903",
+   "total_deaths": "10",
+   "new_deaths": ""
+  },
+  {
+   "name": "Equatorial Guinea",
+   "total_cases": "903",
+   "total_deaths": "10",
+   "new_deaths": ""
+  },
+  {
+   "name": "Venezuela",
+   "total_cases": "882",
+   "total_deaths": "10",
+   "new_deaths": ""
+  },
+  {
+   "name": "Zambia",
+   "total_cases": "866",
+   "total_deaths": "7",
+   "new_deaths": ""
+  },
+  {
+   "name": "Paraguay",
+   "total_cases": "836",
+   "total_deaths": "11",
+   "new_deaths": ""
+  },
+  {
+   "name": "Burkina Faso",
+   "total_cases": "812",
+   "total_deaths": "52",
+   "new_deaths": ""
+  },
+  {
+   "name": "Andorra",
+   "total_cases": "762",
+   "total_deaths": "51",
+   "new_deaths": ""
+  },
+  {
+   "name": "Uruguay",
+   "total_cases": "749",
+   "total_deaths": "20",
+   "new_deaths": ""
+  },
+  {
+   "name": "Haiti",
+   "total_cases": "734",
+   "total_deaths": "25",
+   "new_deaths": "+3"
+  },
+  {
+   "name": "Georgia",
+   "total_cases": "723",
+   "total_deaths": "12",
+   "new_deaths": ""
+  },
+  {
+   "name": "Jordan",
+   "total_cases": "684",
+   "total_deaths": "9",
+   "new_deaths": ""
+  },
+  {
+   "name": "San Marino",
+   "total_cases": "661",
+   "total_deaths": "41",
+   "new_deaths": ""
+  },
+  {
+   "name": "Sierra Leone",
+   "total_cases": "606",
+   "total_deaths": "38",
+   "new_deaths": "+3"
+  },
+  {
+   "name": "Malta",
+   "total_cases": "600",
+   "total_deaths": "6",
+   "new_deaths": ""
+  },
+  {
+   "name": "Chad",
+   "total_cases": "588",
+   "total_deaths": "58",
+   "new_deaths": ""
+  },
+  {
+   "name": "Channel Islands",
+   "total_cases": "558",
+   "total_deaths": "45",
+   "new_deaths": ""
+  },
+  {
+   "name": "Jamaica",
+   "total_cases": "534",
+   "total_deaths": "9",
+   "new_deaths": ""
+  },
+  {
+   "name": "Nepal",
+   "total_cases": "516",
+   "total_deaths": "3",
+   "new_deaths": ""
+  },
+  {
+   "name": "Tanzania",
+   "total_cases": "509",
+   "total_deaths": "21",
+   "new_deaths": ""
+  },
+  {
+   "name": "South Sudan",
+   "total_cases": "481",
+   "total_deaths": "4",
+   "new_deaths": ""
+  },
+  {
+   "name": "Congo",
+   "total_cases": "469",
+   "total_deaths": "16",
+   "new_deaths": ""
+  },
+  {
+   "name": "Réunion",
+   "total_cases": "449",
+   "total_deaths": "1",
+   "new_deaths": ""
+  },
+  {
+   "name": "Madagascar",
+   "total_cases": "448",
+   "total_deaths": "2",
+   "new_deaths": ""
+  },
+  {
+   "name": "Taiwan",
+   "total_cases": "441",
+   "total_deaths": "7",
+   "new_deaths": ""
+  },
+  {
+   "name": "CAR",
+   "total_cases": "436",
+   "new_deaths": ""
+  },
+  {
+   "name": "Ethiopia",
+   "total_cases": "429",
+   "total_deaths": "5",
+   "new_deaths": ""
+  },
+  {
+   "name": "Palestine",
+   "total_cases": "423",
+   "total_deaths": "2",
+   "new_deaths": ""
+  },
+  {
+   "name": "Cabo Verde",
+   "total_cases": "362",
+   "total_deaths": "3",
+   "new_deaths": ""
+  },
+  {
+   "name": "Togo",
+   "total_cases": "354",
+   "total_deaths": "12",
+   "new_deaths": ""
+  },
+  {
+   "name": "Isle of Man",
+   "total_cases": "336",
+   "total_deaths": "24",
+   "new_deaths": ""
+  },
+  {
+   "name": "Mauritius",
+   "total_cases": "332",
+   "total_deaths": "10",
+   "new_deaths": ""
+  },
+  {
+   "name": "Montenegro",
+   "total_cases": "324",
+   "total_deaths": "9",
+   "new_deaths": ""
+  },
+  {
+   "name": "Vietnam",
+   "total_cases": "324",
+   "new_deaths": ""
+  },
+  {
+   "name": "Rwanda",
+   "total_cases": "320",
+   "new_deaths": ""
+  },
+  {
+   "name": "Nicaragua",
+   "total_cases": "279",
+   "total_deaths": "17",
+   "new_deaths": ""
+  },
+  {
+   "name": "Sao Tome and Principe",
+   "total_cases": "251",
+   "total_deaths": "8",
+   "new_deaths": ""
+  },
+  {
+   "name": "Liberia",
+   "total_cases": "249",
+   "total_deaths": "24",
+   "new_deaths": "+1"
+  },
+  {
+   "name": "French Guiana",
+   "total_cases": "249",
+   "total_deaths": "1",
+   "new_deaths": ""
+  },
+  {
+   "name": "Eswatini",
+   "total_cases": "220",
+   "total_deaths": "2",
+   "new_deaths": ""
+  },
+  {
+   "name": "Myanmar",
+   "total_cases": "199",
+   "total_deaths": "6",
+   "new_deaths": ""
+  },
+  {
+   "name": "Yemen",
+   "total_cases": "197",
+   "total_deaths": "33",
+   "new_deaths": ""
+  },
+  {
+   "name": "Martinique",
+   "total_cases": "192",
+   "total_deaths": "14",
+   "new_deaths": ""
+  },
+  {
+   "name": "Faeroe Islands",
+   "total_cases": "187",
+   "new_deaths": ""
+  },
+  {
+   "name": "Mauritania",
+   "total_cases": "173",
+   "total_deaths": "5",
+   "new_deaths": ""
+  },
+  {
+   "name": "Mozambique",
+   "total_cases": "164",
+   "new_deaths": ""
+  },
+  {
+   "name": "Uganda",
+   "total_cases": "160",
+   "new_deaths": ""
+  },
+  {
+   "name": "Guadeloupe",
+   "total_cases": "155",
+   "total_deaths": "13",
+   "new_deaths": ""
+  },
+  {
+   "name": "Gibraltar",
+   "total_cases": "151",
+   "new_deaths": ""
+  },
+  {
+   "name": "Brunei",
+   "total_cases": "141",
+   "total_deaths": "1",
+   "new_deaths": ""
+  },
+  {
+   "name": "Mongolia",
+   "total_cases": "141",
+   "new_deaths": ""
+  },
+  {
+   "name": "Benin",
+   "total_cases": "135",
+   "total_deaths": "3",
+   "new_deaths": ""
+  },
+  {
+   "name": "Guyana",
+   "total_cases": "127",
+   "total_deaths": "10",
+   "new_deaths": ""
+  },
+  {
+   "name": "Bermuda",
+   "total_cases": "125",
+   "total_deaths": "9",
+   "new_deaths": ""
+  },
+  {
+   "name": "Cambodia",
+   "total_cases": "123",
+   "new_deaths": ""
+  },
+  {
+   "name": "Cayman Islands",
+   "total_cases": "121",
+   "total_deaths": "1",
+   "new_deaths": ""
+  },
+  {
+   "name": "Trinidad and Tobago",
+   "total_cases": "116",
+   "total_deaths": "8",
+   "new_deaths": ""
+  },
+  {
+   "name": "Aruba",
+   "total_cases": "101",
+   "total_deaths": "3",
+   "new_deaths": ""
+  },
+  {
+   "name": "Bahamas",
+   "total_cases": "97",
+   "total_deaths": "11",
+   "new_deaths": ""
+  },
+  {
+   "name": "Monaco",
+   "total_cases": "97",
+   "total_deaths": "4",
+   "new_deaths": ""
+  },
+  {
+   "name": "Barbados",
+   "total_cases": "90",
+   "total_deaths": "7",
+   "new_deaths": ""
+  },
+  {
+   "name": "Liechtenstein",
+   "total_cases": "82",
+   "total_deaths": "1",
+   "new_deaths": ""
+  },
+  {
+   "name": "Sint Maarten",
+   "total_cases": "77",
+   "total_deaths": "15",
+   "new_deaths": ""
+  },
+  {
+   "name": "Malawi",
+   "total_cases": "72",
+   "total_deaths": "3",
+   "new_deaths": ""
+  },
+  {
+   "name": "Libya",
+   "total_cases": "71",
+   "total_deaths": "3",
+   "new_deaths": ""
+  },
+  {
+   "name": "Angola",
+   "total_cases": "60",
+   "total_deaths": "3",
+   "new_deaths": ""
+  },
+  {
+   "name": "French Polynesia",
+   "total_cases": "60",
+   "new_deaths": ""
+  },
+  {
+   "name": "Syria",
+   "total_cases": "58",
+   "total_deaths": "3",
+   "new_deaths": ""
+  },
+  {
+   "name": "Zimbabwe",
+   "total_cases": "51",
+   "total_deaths": "4",
+   "new_deaths": ""
+  },
+  {
+   "name": "Macao",
+   "total_cases": "45",
+   "new_deaths": ""
+  },
+  {
+   "name": "Burundi",
+   "total_cases": "42",
+   "total_deaths": "1",
+   "new_deaths": ""
+  },
+  {
+   "name": "Saint Martin",
+   "total_cases": "40",
+   "total_deaths": "3",
+   "new_deaths": ""
+  },
+  {
+   "name": "Eritrea",
+   "total_cases": "39",
+   "new_deaths": ""
+  },
+  {
+   "name": "Comoros",
+   "total_cases": "34",
+   "total_deaths": "1",
+   "new_deaths": ""
+  },
+  {
+   "name": "Botswana",
+   "total_cases": "29",
+   "total_deaths": "1",
+   "new_deaths": ""
+  },
+  {
+   "name": "Antigua and Barbuda",
+   "total_cases": "25",
+   "total_deaths": "3",
+   "new_deaths": ""
+  },
+  {
+   "name": "Gambia",
+   "total_cases": "24",
+   "total_deaths": "1",
+   "new_deaths": ""
+  },
+  {
+   "name": "Timor-Leste",
+   "total_cases": "24",
+   "new_deaths": ""
+  },
+  {
+   "name": "Grenada",
+   "total_cases": "22",
+   "new_deaths": ""
+  },
+  {
+   "name": "Bhutan",
+   "total_cases": "21",
+   "new_deaths": ""
+  },
+  {
+   "name": "Laos",
+   "total_cases": "19",
+   "new_deaths": ""
+  },
+  {
+   "name": "Namibia",
+   "total_cases": "19",
+   "new_deaths": ""
+  },
+  {
+   "name": "Belize",
+   "total_cases": "18",
+   "total_deaths": "2",
+   "new_deaths": ""
+  },
+  {
+   "name": "Fiji",
+   "total_cases": "18",
+   "new_deaths": ""
+  },
+  {
+   "name": "New Caledonia",
+   "total_cases": "18",
+   "new_deaths": ""
+  },
+  {
+   "name": "Saint Lucia",
+   "total_cases": "18",
+   "new_deaths": ""
+  },
+  {
+   "name": "St. Vincent Grenadines",
+   "total_cases": "18",
+   "new_deaths": ""
+  },
+  {
+   "name": "Curaçao",
+   "total_cases": "16",
+   "total_deaths": "1",
+   "new_deaths": ""
+  },
+  {
+   "name": "Dominica",
+   "total_cases": "16",
+   "new_deaths": ""
+  },
+  {
+   "name": "Saint Kitts and Nevis",
+   "total_cases": "15",
+   "new_deaths": ""
+  },
+  {
+   "name": "Falkland Islands",
+   "total_cases": "13",
+   "new_deaths": ""
+  },
+  {
+   "name": "Turks and Caicos",
+   "total_cases": "12",
+   "total_deaths": "1",
+   "new_deaths": ""
+  },
+  {
+   "name": "Vatican City",
+   "total_cases": "12",
+   "new_deaths": ""
+  },
+  {
+   "name": "Montserrat",
+   "total_cases": "11",
+   "total_deaths": "1",
+   "new_deaths": ""
+  },
+  {
+   "name": "Suriname",
+   "total_cases": "11",
+   "total_deaths": "1",
+   "new_deaths": ""
+  },
+  {
+   "name": "Greenland",
+   "total_cases": "11",
+   "new_deaths": ""
+  },
+  {
+   "name": "Seychelles",
+   "total_cases": "11",
+   "new_deaths": ""
+  },
+  {
+   "name": "British Virgin Islands",
+   "total_cases": "8",
+   "total_deaths": "1",
+   "new_deaths": ""
+  },
+  {
+   "name": "Papua New Guinea",
+   "total_cases": "8",
+   "new_deaths": ""
+  },
+  {
+   "name": "Caribbean Netherlands",
+   "total_cases": "6",
+   "new_deaths": ""
+  },
+  {
+   "name": "St. Barth",
+   "total_cases": "6",
+   "new_deaths": ""
+  },
+  {
+   "name": "Western Sahara",
+   "total_cases": "6",
+   "new_deaths": ""
+  },
+  {
+   "name": "Anguilla",
+   "total_cases": "3",
+   "new_deaths": ""
+  },
+  {
+   "name": "Lesotho",
+   "total_cases": "1",
+   "new_deaths": ""
+  },
+  {
+   "name": "Saint Pierre Miquelon",
+   "total_cases": "1",
+   "new_deaths": ""
+  }
+ ]
+}
